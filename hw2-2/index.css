@@ -1,0 +1,55 @@
+html{
+    background-color: #FFFFFF;
+    height: 100%;
+    width: 1024px;
+
+}
+.menustyle{
+    border-radius: 3px;
+    height: 44px;
+    width: 942px;
+    margin-top: 0px;
+    margin-left: 20px;
+    display: block;                                       
+    float:left;
+}
+.menutextstyle{
+    margin-left: 52px;
+    margin-top: 15px;
+    display: block;                                       
+    float:left;
+}
+.endmenustyle{
+    height: 370px;
+    width: 942px;
+    background-color: rgb(189, 185, 185);
+    margin-top: 20px;
+    display: block;                                       
+    float:left;
+}
+.littleimg{
+    height: 198px;
+    margin-top: 20px;
+    margin-left: 48px;
+    display: block;                                       
+    float:left;
+}
+.littletext{
+    display: block;                                       
+    float:left;
+    margin-left: 49.5px;
+    width:98px;
+    text-align:center;
+}
+.footstyle{
+    background-color :greenyellow;
+    height: 50px;
+    display: block;                                       
+    float:left;
+    width: 942px;
+}
+.footimg{
+    height: 35px;
+    margin-left: 5px;
+    margin-top: 7px;
+}
